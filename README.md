@@ -1,40 +1,52 @@
-# 👋 Introduction
+<div align="center">
+  <img src="https://your-image-url-here" alt="Artem Shapko" width="200" height="200">
+  <h1>👋 Hey there, I'm Artem Shapko 🚀</h1>
+  <p><em>Your friendly Frontend Developer and Backend Enthusiast 🌟</em></p>
+</div>
 
-Hello, I'm Artem Shapko 🚀, a Frontend Developer with a passion for creating modern web applications and a growing enthusiasm for Backend development. At 20 years young, I'm dedicated to enhancing user interfaces, crafting captivating visual effects, and ensuring top-notch performance for your projects. 🎨💡🚀
+---
 
-## 🌟 What I Do
+🎓 **About Me**
 
-I'm not just a Frontend Developer; I'm also delving into Backend development. This dual expertise gives me a deeper understanding of the interplay between Frontend and Backend components in applications, allowing me to actively contribute to the creation of full-fledged web projects. 💻🌐
+Hello, I'm Artem Shapko 🚀, a 20-year-old enthusiast with a deep passion for the exciting world of web development. My mission is to craft modern web applications that not only look stunning but also perform exceptionally well. 🎨💡🚀
+
+🔨 **What I Do**
+
+I'm not just a Frontend Developer. I'm also delving into Backend development, which enables me to gain a deeper understanding of the architecture and interaction between Frontend and Backend components. This knowledge empowers me to create full-fledged web projects that are both functional and beautiful. 💻🌐
 
 ## ⚙️ Technologies and Tools
 
-### Frontend:
+**Frontend:**
 
 - HTML & CSS 🌐💅
 - JavaScript/TypeScript 🚀
 - React/Next.js ⚛️
 - Redux/Redux Toolkit 🧡
 
-### Backend:
+**Backend:**
 
 - Python/Golang 🐍🐹
 - FastAPI/Gin 🚀🍸
 - Docker 🐳
 - Kubernetes (k8s) ☸️
 
-And much more... 💻🔧
+And so much more... 💻🔧
 
-## 🤖 Passion for Artificial Intelligence
+🤖 **Passion for AI**
 
-Beyond web development, I'm deeply passionate about Artificial Intelligence. I'm on a continuous journey to explore its potential and applications. It's a realm of innovation and boundless possibilities that I'm eager to contribute to. 🤖📚
+In addition to web development, I'm deeply passionate about the realm of Artificial Intelligence. The world of AI is an ocean of innovation and boundless possibilities, and I'm continually exploring its potential and applications. I eagerly anticipate contributing to this world of endless innovation. 🤖📚
 
-## 🔨 Let's Collaborate
+🤝 **Let's Collaborate**
 
-I'm always on the lookout for exciting projects and collaborations. If you have ideas or tasks related to web development or artificial intelligence, don't hesitate to reach out to me. Let's work together to make the web and the world more amazing and intelligent! 🤝💼
+I'm always on the lookout for captivating projects and collaborations. If you have ideas or tasks related to web development or artificial intelligence, please don't hesitate to reach out to me. Let's work together to make the web and the world more amazing and intelligent! 🤝💼
 
-## 📫 Connect with Me
+📫 **Connect with Me**
 
 - Email: [shapkoa9@gmail.com](mailto:shapkoa9@gmail.com)
 - Telegram: [@ShapkoArtem](https://t.me/ShapkoArtem)
 
-Thank you for visiting my GitHub page. Let's join hands to make the internet a more amazing and intelligent place! 🌐🌟🤖
+---
+
+<div align="center">
+  <p>Thank you for visiting my GitHub page. Let's make the internet a more amazing and intelligent place! 🌐🌟🤖</p>
+</div>
