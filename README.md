@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://your-image-url-here" alt="Artem Shapko" width="200" height="200">
   <h1>👋 Hey there, I'm Artem Shapko 🚀</h1>
   <p><em>Your friendly Frontend Developer and Backend Enthusiast 🌟</em></p>
 </div>
