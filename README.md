@@ -15,19 +15,24 @@ I'm not just a Frontend Developer. I'm also delving into Backend development, wh
 
 ## ⚙️ Technologies and Tools
 
-**Frontend:**
+Frontend:
+🌐 HTML5, CSS3
+💻 JavaScript / TypeScript
+⚛️ ReactJS / Next.js
+🛠 Redux Toolkit / SWR
+🎨 Material UI / Mantine JS
 
-- HTML & CSS 🌐💅
-- JavaScript/TypeScript 🚀
-- React/Next.js ⚛️
-- Redux/Redux Toolkit 🧡
+Backend:
+🐍 Python
+🚀 FastAPI
+🗄 PostgreSQL / MongoDB
 
-**Backend:**
+DevOps:
+🐳 Docker
+☸️ Kubernetes
+☁️ Google Cloud / DigitalOcean
+🔄 CI/CD (GitHub Actions)
 
-- Python/Golang 🐍🐹
-- FastAPI/Gin 🚀🍸
-- Docker 🐳
-- Kubernetes (k8s) ☸️
 
 And so much more... 💻🔧
 
